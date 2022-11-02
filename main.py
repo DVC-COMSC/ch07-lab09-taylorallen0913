@@ -1,3 +1,3 @@
-# ******************************
-# Make your Code
-# ******************************
+names = list(input().split())
+
+print(min(names), max(names))
